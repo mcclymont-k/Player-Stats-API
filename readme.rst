@@ -26,7 +26,12 @@ Database
 --------
 Create a new mysql Database
 Ensure you update the database configuration settings in config/database.php to match the new database you have created.
-Once the database is set-up, migrate the tables by running this in the root folder: $ php index.php migrate
+
+Once the database is set-up, migrate the tables by running this in the root folder: 
+
+```
+$ php index.php migrate
+```
 
 API instructions
 --------
