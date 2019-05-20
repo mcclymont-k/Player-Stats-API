@@ -31,7 +31,6 @@ Once the database is set-up, migrate the tables by running this in the root fold
 
 ```
 $ php index.php migrate
-
 ```
 
 API instructions
