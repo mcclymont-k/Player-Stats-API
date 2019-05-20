@@ -7,14 +7,15 @@ This RESTful API  allows for upload, viewing and deletion of patient information
 Requirements
 --------
 This library requires:
-- PHP 5.4.0+
-- CodeIgniter 3.0.0 +
+	- PHP 5.4.0+
+	- CodeIgniter 3.0.0 +
 
 
 Installation
 -------
 
-Clone the repo.
+Clone the repo
+
 Run locally:
   - move the folder into your xammpp or wampp folder
 
